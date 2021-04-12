@@ -1,0 +1,9 @@
+{
+  "homepage": "https://acw.sh",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
